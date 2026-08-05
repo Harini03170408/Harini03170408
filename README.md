@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Where+intelligence+meets+engineering;Game-tree+search+%2B+pruning+enthusiast;Building+GenAI+into+production-style+apps;Clean+code+under+competitive+pressure" alt="Typing SVG" />
 </a>
 
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev quote of the day" width="60%"/>
+
 </div>
 
 <br/>
@@ -25,12 +29,25 @@ I enjoy problems where intelligence meets engineering:
 - 🏆 **Competitive programming** that forces clean, correct code under pressure
 
 <details>
-<summary>🎯 <b>What I'm currently exploring</b> (click to expand)</summary>
+<summary>🎯 <b>What I'm currently exploring</b></summary>
 <br/>
 
 - Optimizing minimax/alpha-beta pruning implementations for real-time game AI
 - Shipping LLM-powered features end-to-end (frontend → API → inference)
 - Sharpening DSA fundamentals through contest practice
+
+</details>
+
+<details>
+<summary>🗺️ <b>My Journey So Far</b></summary>
+<br/>
+
+```text
+2023  ── Started CS @ Kalasalingam Academy of Research and Education
+2024  ── Deep dive into DSA + competitive programming
+2025  ── Built production-style web apps with GenAI features wired in
+2026  ── Exploring game-tree search + AI-driven algorithmic systems
+```
 
 </details>
 
@@ -70,32 +87,26 @@ I like my algorithms fast and my UI faster — if it can be pruned, cached, or d
 <div align="center">
 
 **Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,java,html,php&theme=dark" />
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<br/><br/>
 
 **Frameworks & Runtime**
+<br/>
+<img src="https://skillicons.dev/icons?i=flask,express,nodejs,nextjs,vite,flutter&theme=dark" />
 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+<br/><br/>
 
 **Databases & Deployment**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,supabase,vercel,netlify,anaconda&theme=dark" />
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+<br/><br/>
 
 **Design & Creative Tools**
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
@@ -119,7 +130,7 @@ I like my algorithms fast and my UI faster — if it can be pruned, cached, or d
 </div>
 
 <details>
-<summary>📈 <b>Contribution Graph</b> (click to expand)</summary>
+<summary>📈 <b>Contribution Graph</b></summary>
 <br/>
 
 <div align="center">
@@ -127,6 +138,18 @@ I like my algorithms fast and my UI faster — if it can be pruned, cached, or d
 </div>
 
 </details>
+
+<br/>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Harini03170408/Harini03170408/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>⚙️ This animates once the <code>snake.yml</code> workflow (provided separately) runs in your profile repo — see notes below.</sub>
+
+</div>
 
 <br/>
 
